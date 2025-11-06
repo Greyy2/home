@@ -8,10 +8,10 @@
 
 <!-- Enhanced Social & Stats -->
 <p align="center" style="margin-top: 20px;">
-  <a href="mailto:dtc225180347@ictu.edu.vn">
+  <a href="mailto:qvinhcoitn9@gmail.com">
     <img src="https://img.shields.io/badge/-📧%20Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333"/>
   </a>
-  <a href="https://github.com/Grey20981">
+  <a href="https://github.com/Grey2">
     <img src="https://img.shields.io/badge/-👥%20Follow-black?style=for-the-badge&logo=github&logoColor=white&labelColor=333333"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Grey20981&color=333333&style=for-the-badge&label=Profile+Views" />
@@ -92,7 +92,7 @@
 <table style="background: transparent;">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Grey20981&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=333&title_color=fff&text_color=fff&icon_color=58a6ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Grey2&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=333&title_color=fff&text_color=fff&icon_color=58a6ff" height="180"/>
 </td>
 <td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grey20981&theme=github-dark-blue&background=0d1117&border=333&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=fff&sideNums=fff&currStreakLabel=58a6ff&sideLabels=fff&dates=8b949e" height="180"/>
@@ -100,13 +100,13 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey20981&layout=compact&theme=github_dark&bg_color=0d1117&border_color=333&title_color=fff&text_color=fff" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey2&layout=compact&theme=github_dark&bg_color=0d1117&border_color=333&title_color=fff&text_color=fff" height="150"/>
 </td>
 </tr>
 </table>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grey20981&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grey2&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -139,7 +139,7 @@
 
 <!-- Trophy Display -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Grey20981&theme=darkhub&background=0d1117&border=333&title=fff&text=fff&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Grey2&theme=darkhub&background=0d1117&border=333&title=fff&text=fff&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 </div>
@@ -157,13 +157,13 @@
 ### Let's Connect! 🤝
 
 <p>
-  <a href="mailto:dtc225180347@ictu.edu.vn">
+  <a href="mailto:qvinhcoitn9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://github.com/Grey20981">
+  <a href="https://github.com/Grey2">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:dtc225180347@ictu.edu.vn">
+  <a href="mailto:qvinhcoitn9@gmail.com">
     <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=mail&logoColor=0A66C2"/>
   </a>
 </p>
@@ -196,4 +196,5 @@
 </p>
 
 </div>
+
 
