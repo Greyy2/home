@@ -1,7 +1,7 @@
 <div align="center" style="background: linear-gradient(135deg, #0c0c0c 0%, #1a1a1a 100%); padding: 20px; border-radius: 15px;">
 
 <!-- Animated Banner with Beautiful Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:f093fb,100:f5576c&height=220&section=header&text=Hi,%20I'm%20Grey20981%20👋&fontSize=45&fontAlign=50&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:f093fb,100:f5576c&height=220&section=header&text=Hi,%20I'm%20Grey2%20👋&fontSize=45&fontAlign=50&fontColor=fff&animation=twinkling" />
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=AI+%26+Game+Developer;From+Thái+Nguyên,+Việt+Nam;Future+AI+%26+Game+Programmer" alt="Typing SVG" />
@@ -196,5 +196,6 @@
 </p>
 
 </div>
+
 
 
